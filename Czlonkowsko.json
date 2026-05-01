@@ -1,9 +1,8 @@
 {
-  "version": "1.3",
-  "enabled": true,
-  "whitelisted_hwids": [
-    "94C28570-C56F-0000-0000-000000000000",
-    "96FB79AE-2924-2918-AFA4-FC9D0525001D",
-    "6b8e1007bd1d4b8b8af3baa6f66ab740"
-  ]
+    "version": "1.3",
+    "enabled": true,
+    "whitelisted_hwids": [
+        "94C28570-C56F-0000-0000-000000000000",
+        "6b8e1007bd1d4b8b8af3baa6f66ab740"
+    ]
 }
